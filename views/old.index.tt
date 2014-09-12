@@ -1,0 +1,4 @@
+<div>
+	<p>Your lucky number is <% number %></p>
+    <p>You are using <% request.user_agent %></p>
+</div>

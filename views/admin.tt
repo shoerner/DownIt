@@ -1,0 +1,8 @@
+<div id="submission">
+	<form name="admin" action="./change" method="POST" enctype="multipart/form-data">
+		Path for file: <input type="text" name="file" /> </br>
+		Username: <input type="text" name="username" /> </br>
+		Password: <input type="password" name="password" /> </br>
+		<input type="submit" value="Submit" /> </br<
+	</form>
+</div>
